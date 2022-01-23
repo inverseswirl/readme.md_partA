@@ -7,8 +7,6 @@
     3. User signout.
     4. Select an exercise. A user can select their exercise that they want to keep track of.
     5. Exercise log entry. After a user selects their exercise, they can enter in the specific details of their exercise (e.g. weight and reps).
-    6. History. A user can open up a calendar and go to any day in the past to view their exercise details.
-    7. Dashboard. A user can visualise their performance over time graphically.
 
 - **Target audience:** The target audience is anyone that wants to track their fitness.
 
