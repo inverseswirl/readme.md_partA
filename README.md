@@ -15,6 +15,19 @@
 ## R2.	Dataflow Diagram
 
 ## R3.	Application Architecture Diagram
+The technology stack used for this project is known as the MERN stack, which consists of MongoDB, ExpressJS, React, and NodeJS.
+
+Our application will be fronted by a React app which will be accessed by the users directly. The React app will serve as the frontend, to provide the user interface and interaction with the users. The users will not be allowed to access the backend web server and database directly for security reasons. The React app will be hosted on Netlify.
+
+Our backend web server consists of NodeJS and ExpressJS. ExpressJS is a web framework that runs on top of NodeJS to create a web server. Therefore, NodeJS and ExpressJS will work together to operate as a web server and respond to HTTP requests. NodeJS and ExpressJS will set up a backend REST API server to communicate with the React app. Our backend web server will be containerised using Docker, and will be hosted on AWS Elastic Container Service (ECS).
+
+MongoDB is used as the database to allow for persistent storage of data. It is the responsibility of NodeJS and ExpressJS to communicate with MongoDB. The frontend React app should not talk to the database as it is not a secure practice. MongoDB will be hosted on MongoDB Atlas.
+
+Mongoose is an Object Data Modelling library for MongoDB, which allows developers to enforce schema for MongoDB at the NodeJS application layer and provides tools and features to make it easier to work with mongoDB. Mongoose will be used to communicate with the MongoDB database.
+
+In summary, MongoDB is responsible as a database, ExpressJS and NodeJS are responsible as a backend web server, and React is responsible as a frontend app to interact with the users.
+
+![Application Architecture Diagram](./docs/application_architecture_diagram.drawio.png)
 
 ## R4.	User Stories
 
