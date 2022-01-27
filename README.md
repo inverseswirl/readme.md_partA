@@ -32,7 +32,11 @@ These represent any flow of information or data from any other external organisa
 
 The data flow lines represent the input and output and the flow of data through processes, external entities and data stores.
 
-![dfd](./dfd.png)
+![dfd1](./dfd1.png)
+App logic dfd
+
+![dfd2](./dfd2.png)
+Exercise list dfd
 
 
 ## R3.	Application Architecture Diagram
