@@ -48,4 +48,28 @@ In summary, MongoDB is responsible as a database, ExpressJS and NodeJS are respo
 
 ## R5.	Wireframes for multiple standard screen sizes, created using industry standard software
 
+![(Mobile) Signup page](./docs/(Mobile)_Signup_page.png)
+![(Mobile) Login page](./docs/(Mobile)_Login_page.png)
+![(Mobile) Home page](./docs/(Mobile)_Home_page.png)
+![(Mobile) Choose exercise page](./docs/(Mobile)_Choose_exercise_page.png)
+![(Mobile) Log entry page](./docs/(Mobile)_Log_entry_page.png)
+![(Mobile) Calendar page](./docs/(Mobile)_Calendar_page.png)
+![(Mobile) Dashboard page](./docs/(Mobile)_Dashboard_page.png)
+
+![(Tablet) Signup page](./docs/(Tablet)_Signup_page.png)
+![(Tablet) Login page](./docs/(Tablet)_Login_page.png)
+![(Tablet) Home page](./docs/(Tablet)_Home_page.png)
+![(Tablet) Choose exercise page](./docs/(Tablet)_Choose_exercise_page.png)
+![(Tablet) Log entry page](./docs/(Tablet)_Log_entry_page.png)
+![(Tablet) Calendar page](./docs/(Tablet)_Calendar_page.png)
+![(Tablet) Dashboard page](./docs/(Tablet)_Dashboard_page.png)
+
+![(Desktop) Signup page](./docs/(Desktop)_Signup_page.png)
+![(Desktop) Login page](./docs/(Desktop)_Login_page.png)
+![(Desktop) Home page](./docs/(Desktop)_Home_page.png)
+![(Desktop) Choose exercise page](./docs/(Desktop)_Choose_exercise_page.png)
+![(Desktop) Log entry page](./docs/(Desktop)_Log_entry_page.png)
+![(Desktop) Calendar page](./docs/(Desktop)_Calendar_page.png)
+![(Desktop) Dashboard page](./docs/(Desktop)_Dashboard_page.png)
+
 ## R6.	Screenshots of your Trello board throughout the duration of the project**
