@@ -12,7 +12,32 @@
 
 - **Tech stack:** The technology stack used for this project is known as the MERN stack, which consists of MongoDB, ExpressJS, React, and NodeJS.
 
-## R2.	Dataflow Diagram
+## R2.	Dataflow Diagram 
+
+Dataflow diagram will help to have a visual representation of the flow of information in the application. It includes using various symbols to represent processes, data stores, external entities and data flow. 
+
+**1. Process:**
+
+It represents the logical processing of input data to produce and output data.
+
+**2. Data store:**
+
+It represents the data storage of inputs received from users that can be used for later use for retracting user information.
+
+**3. External entities:**
+
+These represent any flow of information or data from any other external organisation, application programming interface or system. These usually represent the edges of the DFD diagrams.
+
+**4. Data flows:**
+
+The data flow lines represent the input and output and the flow of data through processes, external entities and data stores.
+
+![dfd1](./dfd1.png)
+App logic dfd
+
+![dfd2](./dfd2.png)
+Exercise list dfd
+
 
 ## R3.	Application Architecture Diagram
 
