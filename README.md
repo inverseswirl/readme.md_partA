@@ -61,3 +61,21 @@ Exercise list dfd
 ## R5.	Wireframes for multiple standard screen sizes, created using industry standard software
 
 ## R6.	Screenshots of your Trello board throughout the duration of the project**
+
+**Trello screenshots**
+
+![1](./trello/1.png)
+![2](./trello/2.png)
+![3](./trello/3.png)
+![4](./trello/4.png)
+![5](./trello/5.png)
+![6](./trello/6.png)
+
+**Asana screenshots**
+
+![1](./asana/1.png)
+![2](./asana/2.png)
+![3](./asana/3.png)
+![4](./asana/4.png)
+
+
