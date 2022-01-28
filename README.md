@@ -40,19 +40,6 @@ Exercise list dfd
 
 
 ## R3.	Application Architecture Diagram
-The technology stack used for this project is known as the MERN stack, which consists of MongoDB, ExpressJS, React, and NodeJS.
-
-Our application will be fronted by a React app which will be accessed by the users directly. The React app will serve as the frontend, to provide the user interface and interaction with the users. The users will not be allowed to access the backend web server and database directly for security reasons. The React app will be hosted on Netlify.
-
-Our backend web server consists of NodeJS and ExpressJS. ExpressJS is a web framework that runs on top of NodeJS to create a web server. Therefore, NodeJS and ExpressJS will work together to operate as a web server and respond to HTTP requests. NodeJS and ExpressJS will set up a backend REST API server to communicate with the React app. Our backend web server will be containerised using Docker, and will be hosted on AWS Elastic Container Service (ECS).
-
-MongoDB is used as the database to allow for persistent storage of data. It is the responsibility of NodeJS and ExpressJS to communicate with MongoDB. The frontend React app should not talk to the database as it is not a secure practice. MongoDB will be hosted on MongoDB Atlas.
-
-Mongoose is an Object Data Modelling library for MongoDB, which allows developers to enforce schema for MongoDB at the NodeJS application layer and provides tools and features to make it easier to work with mongoDB. Mongoose will be used to communicate with the MongoDB database.
-
-In summary, MongoDB is responsible as a database, ExpressJS and NodeJS are responsible as a backend web server, and React is responsible as a frontend app to interact with the users.
-
-![Application Architecture Diagram](./docs/application_architecture_diagram.drawio.png)
 
 ## R4.	User Stories
 
@@ -73,32 +60,22 @@ In summary, MongoDB is responsible as a database, ExpressJS and NodeJS are respo
 
 ## R5.	Wireframes for multiple standard screen sizes, created using industry standard software
 
-
-![(Mobile) Signup page](./docs/(Mobile)_Signup_page.png)
-![(Mobile) Login page](./docs/(Mobile)_Login_page.png)
-![(Mobile) Home page](./docs/(Mobile)_Home_page.png)
-![(Mobile) Choose exercise page](./docs/(Mobile)_Choose_exercise_page.png)
-![(Mobile) Log entry page](./docs/(Mobile)_Log_entry_page.png)
-![(Mobile) Calendar page](./docs/(Mobile)_Calendar_page.png)
-![(Mobile) Dashboard page](./docs/(Mobile)_Dashboard_page.png)
-
-![(Tablet) Signup page](./docs/(Tablet)_Signup_page.png)
-![(Tablet) Login page](./docs/(Tablet)_Login_page.png)
-![(Tablet) Home page](./docs/(Tablet)_Home_page.png)
-![(Tablet) Choose exercise page](./docs/(Tablet)_Choose_exercise_page.png)
-![(Tablet) Log entry page](./docs/(Tablet)_Log_entry_page.png)
-![(Tablet) Calendar page](./docs/(Tablet)_Calendar_page.png)
-![(Tablet) Dashboard page](./docs/(Tablet)_Dashboard_page.png)
-
-![(Desktop) Signup page](./docs/(Desktop)_Signup_page.png)
-![(Desktop) Login page](./docs/(Desktop)_Login_page.png)
-![(Desktop) Home page](./docs/(Desktop)_Home_page.png)
-![(Desktop) Choose exercise page](./docs/(Desktop)_Choose_exercise_page.png)
-![(Desktop) Log entry page](./docs/(Desktop)_Log_entry_page.png)
-![(Desktop) Calendar page](./docs/(Desktop)_Calendar_page.png)
-![(Desktop) Dashboard page](./docs/(Desktop)_Dashboard_page.png)
-
 ## R6.	Screenshots of your Trello board throughout the duration of the project**
 
+**Trello screenshots**
+
+![1](./trello/1.png)
+![2](./trello/2.png)
+![3](./trello/3.png)
+![4](./trello/4.png)
+![5](./trello/5.png)
+![6](./trello/6.png)
+
+**Asana screenshots**
+
+![1](./asana/1.png)
+![2](./asana/2.png)
+![3](./asana/3.png)
+![4](./asana/4.png)
 
 
