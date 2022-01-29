@@ -103,16 +103,16 @@ In summary, MongoDB is responsible as a database, ExpressJS and NodeJS are respo
 
 **Trello screenshots**
 
-![1](./trello/1.png)
-![2](./trello/2.png)
-![3](./trello/3.png)
-![4](./trello/4.png)
-![5](./trello/5.png)
-![6](./trello/6.png)
+![1](./docs/trello/1.png)
+![2](./docs/trello/2.png)
+![3](./docs/trello/3.png)
+![4](./docs/trello/4.png)
+![5](./docs/trello/5.png)
+![6](./docs/trello/6.png)
 
 **Asana screenshots**
 
-![1](./asana/1.png)
-![2](./asana/2.png)
-![3](./asana/3.png)
-![4](./asana/4.png)
+![1](./docs/asana/1.png)
+![2](./docs/asana/2.png)
+![3](./docs/asana/3.png)
+![4](./docs/asana/4.png)
